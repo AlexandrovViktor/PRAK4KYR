@@ -2805,12 +2805,7 @@ body.menu {
   width: fit-content;
   position: relative;
 }
-.slider__row:hover {
-  cursor: grab;
-}
-.slider__row._grabbing {
-  cursor: grabbing;
-}
+
 .slider__row._slider-return-left,
 .slider__row._slider-return-right {
   transition: transform 1s;
